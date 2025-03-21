@@ -1,6 +1,8 @@
-Azka Lutfir Rahman
-KHALISHA ATHAYA RABBANI
-Nuril Ababiel Irawan
-Muhamad Fauzan Taufikurohman
-Neisya Nayyara Audiva
-Vincent Manuel Taruklaby
+Praktikum PPL Kelompok 6 (membuat web koperasi)
+
+1. Azka Lutfir Rahman
+2. KHALISHA ATHAYA RABBANI
+4. Nuril Ababiel Irawan
+5. Muhamad Fauzan Taufikurohman
+6. Neisya Nayyara Audiva
+7. Vincent Manuel Taruklaby
